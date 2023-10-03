@@ -2,7 +2,7 @@
 
 Please click on the link to view the file :
 
- ### [See Project](https://1drv.ms/x/s!AjI3b8Rw5mf1oBNVMf1skz-e-vJv?e=pP7Kgg) <br> 
+ ### [See Project](https://1drv.ms/x/s!AjI3b8Rw5mf1oBNVMf1skz-e-vJv?e=pP7Kgg) 
  
 This Excel dashboard helps businesses to visualize and analyze key performance indicators (KPIs) such as customer complaints and defects, inventory control, and supplier evaluation. The dashboard is customizable and can be filtered by date range, product category, or other criteria.
 
@@ -21,6 +21,6 @@ This Excel dashboard helps businesses to visualize and analyze key performance i
 The Excel Dashboard for KPI Visualization is a valuable tool for businesses of all sizes to improve their performance.
 
 
- <img src = "excel.png">
+ <img src = "excel.png">(https://1drv.ms/x/s!AjI3b8Rw5mf1oBNVMf1skz-e-vJv?e=pP7Kgg) 
 
 The file is available for free download.
