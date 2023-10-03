@@ -8,4 +8,4 @@ The file is available for free download.
 
 Note: Please save a local copy in case you encounter any issues viewing it online.
 
- 
+ <img src = "KPI.png">
