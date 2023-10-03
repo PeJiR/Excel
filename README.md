@@ -24,4 +24,4 @@ Examples:
 The Excel Dashboard for KPI Visualization is a valuable tool for businesses of all sizes to improve their performance.
 
 
- <img src = "KPI.png">
+ <img src = "excel.png">
