@@ -21,6 +21,6 @@ This Excel dashboard helps businesses to visualize and analyze key performance i
 The Excel Dashboard for KPI Visualization is a valuable tool for businesses of all sizes to improve their performance.
 
 
- [<img src = "excel.png">](https://1drv.ms/x/s!AjI3b8Rw5mf1oBNVMf1skz-e-vJv?e=pP7Kgg) 
+ [<img src = "excel.png">](https://github.com/PeJiR/Excel/blob/522ab992163bfec3d395231a177d3b21e8171e19/KPI%20dashboard.%20-%20Editable.xlsb) 
 
 The file is available for free download.
