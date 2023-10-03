@@ -2,7 +2,7 @@
 
 Please click on the link to view the file :
 
- ### [See Project](https://1drv.ms/x/s!AjI3b8Rw5mf1oBNVMf1skz-e-vJv?e=pP7Kgg) 
+ ### [See Project](https://github.com/PeJiR/Excel/blob/522ab992163bfec3d395231a177d3b21e8171e19/KPI%20dashboard.%20-%20Editable.xlsb) 
  
 This Excel dashboard helps businesses to visualize and analyze key performance indicators (KPIs) such as customer complaints and defects, inventory control, and supplier evaluation. The dashboard is customizable and can be filtered by date range, product category, or other criteria.
 
