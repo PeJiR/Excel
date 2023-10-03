@@ -1,12 +1,9 @@
-# ✨ Excel_KPI_Dashboard✨ 
+# ✨ Excel Dashboard for KPI Visualization✨ 
 
 Please click on the link to view the file :
 
  ### [See Project](https://1drv.ms/x/s!AjI3b8Rw5mf1oBNVMf1skz-e-vJv?e=pP7Kgg) <br> 
  
-The file is available for free download.
-Excel Dashboard for KPI Visualization
-
 This Excel dashboard helps businesses to visualize and analyze key performance indicators (KPIs) such as customer complaints and defects, inventory control, and supplier evaluation. The dashboard is customizable and can be filtered by date range, product category, or other criteria.
 
 **Benefits:**
@@ -25,3 +22,5 @@ The Excel Dashboard for KPI Visualization is a valuable tool for businesses of a
 
 
  <img src = "excel.png">
+
+The file is available for free download.
