@@ -1,19 +1,31 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
-<hr/>
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+    /* CSS to display images in the same line */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
 
+    img {
+      margin: 0 10px; /* Add horizontal spacing between the images */
+    }
+  </style>
 </head>
 <body>
   <img src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
   <a href="https://www.linkedin.com/in/pejir/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
- 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
   </a>
 </body>
 </html>
+
 
 <image:: https://img.shields.io/pypi/v/qtpylib.svg?maxAge=60>
     :target: https://pypi.python.org/pypi/qtpylib
