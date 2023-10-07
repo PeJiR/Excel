@@ -1,4 +1,28 @@
-# ✨ Excel Dashboard for KPI Visualization✨ 
+# Excel Dashboard for KPI Visualization 
+<a href="https://github.com/pejir">
+<hr/>
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+  <a href="https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20-%20Editable.xlsb" target="_blank">
+   <img src="https://img.shields.io/badge/excel-365-green"alt="Excel" />
+    
+  <a href="https://github.com/PeJiR/Excel" target="_blank">
+   <img src="https://img.shields.io/pypi/status/ezibpy.svg?maxAge=60" alt="status" />
+    
+  <a href="https://github.com/PeJiR/Excel" target="_blank">
+   <img src="https://img.shields.io/github/stars/pejir/excel.svg?style=social&label=Star&maxAge=60" alt="Star this repo" />
+    
+  <a href="https://www.linkedin.com/in/pejir/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+
+  
+  </a>
+</body>
+</html>
 
 Please click on the link to view the file :
 
@@ -23,4 +47,10 @@ The Excel Dashboard for KPI Visualization is a valuable tool for businesses of a
 
  [<img src = "excel.png">](https://github.com/PeJiR/Excel/blob/522ab992163bfec3d395231a177d3b21e8171e19/KPI%20dashboard.%20-%20Editable.xlsb) 
 
-The file is available for free download.
+
+P.S.
+------------
+
+Please drop me an note with any feedback you have.
+
+**Roberto Perez**
