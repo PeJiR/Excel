@@ -1,7 +1,7 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
 
-.. image:: https://img.shields.io/badge/python-3.4+-blue.svg?style=flat
+.. img src https://img.shields.io/badge/python-3.4+-blue.svg?style=flat
     :target: https://pypi.python.org/pypi/qtpylib
     :alt: Python version
 
