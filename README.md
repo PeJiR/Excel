@@ -48,3 +48,10 @@ The Excel Dashboard for KPI Visualization is a valuable tool for businesses of a
  [<img src = "excel.png">](https://github.com/PeJiR/Excel/blob/522ab992163bfec3d395231a177d3b21e8171e19/KPI%20dashboard.%20-%20Editable.xlsb) 
 
 The file is available for free download.
+
+P.S.
+------------
+
+Please drop me an note with any feedback you have.
+
+**Roberto Perez**
