@@ -1,6 +1,6 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
-  <img src="https://img.shields.io/badge/python-3.4+-blue.svg?style=flat">
+  <img src="https://img.shields.io/badge/excel-green">
     :target: https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20-%20Editable.xlsb
     :alt: Excel version
 
