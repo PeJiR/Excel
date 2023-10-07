@@ -1,10 +1,10 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
-  <img src="https://img.shields.io/badge/excel-green">
+<img src="https://img.shields.io/badge/excel-green">
     :target: https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20-%20Editable.xlsb
     :alt: Version
 
-.. image:: https://img.shields.io/pypi/v/qtpylib.svg?maxAge=60
+<image:: https://img.shields.io/pypi/v/qtpylib.svg?maxAge=60>
     :target: https://pypi.python.org/pypi/qtpylib
     :alt: PyPi version
 
