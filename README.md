@@ -42,7 +42,7 @@ The Excel Dashboard for KPI Visualization is a valuable tool for businesses of a
 
 ## Visualize dashboard online
 
- [<img src = "excel.png">](https://github.com/PeJiR/Excel/blob/522ab992163bfec3d395231a177d3b21e8171e19/KPI%20dashboard.%20-%20Editable.xlsb) 
+ [<img src = "excel.png">](https://1drv.ms/x/s!AjI3b8Rw5mf1oS7R0aMNzpRqrXDh?e=7QVjQn) 
 
 
 P.S.
