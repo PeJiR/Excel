@@ -1,5 +1,6 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
+<hr/>
 <!DOCTYPE html>
 <html>
 <head>
