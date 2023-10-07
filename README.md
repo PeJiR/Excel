@@ -1,7 +1,6 @@
 # Excel Dashboard for KPI Visualization 
 <a href="https://github.com/pejir">
 <a href="https://github.com/PeJiR/Excel" target="_blank"><img src="https://img.shields.io/badge/excel-365-green"alt="Excel" /></a>
-<a href="https://github.com/PeJiR/Excel" target="_blank"><img src="https://img.shields.io/pypi/status/ezibpy.svg?maxAge=60" alt="status" /></a>
 <a href="https://github.com/PeJiR/Excel" target="_blank"><img src="https://img.shields.io/github/stars/pejir/excel.svg?style=social&label=Star&maxAge=60" alt="Star this repo" /></a>
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
