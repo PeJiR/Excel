@@ -1,5 +1,7 @@
 # Excel Dashboard for KPI Visualization 
+
 ====================================================
+
 .. image:: https://img.shields.io/badge/python-2.7,%203.5+-blue.svg?style=flat
     :target: https://pypi.python.org/pypi/pystore
     :alt: Python version
@@ -29,6 +31,8 @@
     :alt: Follow me on twitter
 
 \
+
+
 
 Please click on the link to view the file :
 
