@@ -1,5 +1,6 @@
 # Excel Dashboard for KPI Visualization 
-<a href="https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20Available%20for%20FREE%20download.xlsb" target="_blank"><img src="https://img.shields.io/badge/excel-365-green"alt="Excel" /></a>
+
+<a href="https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20Available%20for%20FREE%20download.xlsb" target="_blank"><img src="https://img.shields.io/badge/excel-365-green"alt="Excel"/></a>
 <a href="https://github.com/PeJiR/Excel" target="_blank"><img src="https://img.shields.io/github/stars/pejir/excel.svg?style=social&label=Star&maxAge=60" alt="Star this repo" /></a>
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
