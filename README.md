@@ -24,9 +24,6 @@
   </a>
 </body>
 </html>
-=======================================
-
- 
  
 This Excel dashboard helps businesses to visualize and analyze key performance indicators (KPIs) such as customer complaints and defects, inventory control, and supplier evaluation. The dashboard is customizable and can be filtered by date range, product category, or other criteria.
 
