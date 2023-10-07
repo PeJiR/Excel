@@ -2,6 +2,9 @@ Excel Dashboard for KPI Visualization
 ====================================================
 <!DOCTYPE html>
 <html>
+<head>
+
+</head>
 <body>
   <img src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
   <a href="https://www.linkedin.com/in/pejir/" target="_blank">
