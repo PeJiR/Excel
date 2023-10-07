@@ -1,5 +1,8 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
+ <a href="https://img.shields.io/badge/excel-365-green" target="_blank">
+    <img src="https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20-%20Editable.xlsb" alt="Excel" />
+  </a>
  <a href="https://www.linkedin.com/in/pejir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
   </a>
