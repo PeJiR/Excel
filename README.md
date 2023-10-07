@@ -1,4 +1,3 @@
-# Excel Dashboard for KPI Visualization 
 PyStore - Fast data store for Pandas timeseries data
 ====================================================
 
