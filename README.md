@@ -11,7 +11,14 @@
    <img src="https://img.shields.io/badge/excel-365-green" alt="Excel" />
   <a href="https://www.linkedin.com/in/pejir/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+  <a href="https://github.com/PeJiR/Excel" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
  
+
+    
+https://img.shields.io/github/stars/ranaroussi/qtpylib.svg?style=social&label=Star&maxAge=60
+    :target: https://github.com/ranaroussi/qtpylib
+    :alt: Star this repo
   </a>
 </body>
 </html>
@@ -37,9 +44,7 @@
     :target: https://discord.gg/7wEzsuV
     :alt: Chat on Discord
 
-.. image:: https://img.shields.io/github/stars/ranaroussi/qtpylib.svg?style=social&label=Star&maxAge=60
-    :target: https://github.com/ranaroussi/qtpylib
-    :alt: Star this repo
+
 
 .. image:: https://img.shields.io/twitter/follow/aroussi.svg?style=social&label=Follow&maxAge=60
     :target: https://twitter.com/aroussi
