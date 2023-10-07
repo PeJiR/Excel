@@ -5,7 +5,7 @@
 <a href="https://github.com/PeJiR/Excel" target="_blank"><img src="https://img.shields.io/github/stars/pejir/excel.svg?style=social&label=Star&maxAge=60" alt="Star this repo" /></a>
 <a href="https://www.linkedin.com/in/pejir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" /></a>
 
-
+---
  
 This Excel dashboard helps businesses to visualize and analyze key performance indicators (KPIs) such as customer complaints and defects, inventory control, and supplier evaluation. The dashboard is customizable and can be filtered by date range, product category, or other criteria.
 
