@@ -1,5 +1,9 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
+<html>
+<head>
+
+</head>
 <body>
   <img src="https://komarev.com/ghpvc/?username=PeJiR&color=blue&style=flat-square" alt="PeJiR profile views" />
   <a href="https://www.linkedin.com/in/pejir/" target="_blank">
@@ -7,6 +11,7 @@ Excel Dashboard for KPI Visualization
  
   </a>
 </body>
+</html>
 
 <image:: https://img.shields.io/pypi/v/qtpylib.svg?maxAge=60>
     :target: https://pypi.python.org/pypi/qtpylib
