@@ -1,7 +1,7 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
 <a href="https://github.com/pejir">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pejir&show_icons=true&theme=light&line_height=27" alt="pejir's github stats"/>
+ 
 
 <hr/>
 <!DOCTYPE html>
