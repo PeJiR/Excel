@@ -1,4 +1,34 @@
-# ✨ Excel Dashboard for KPI Visualization✨ 
+# Excel Dashboard for KPI Visualization 
+
+.. image:: https://img.shields.io/badge/python-2.7,%203.5+-blue.svg?style=flat
+    :target: https://pypi.python.org/pypi/pystore
+    :alt: Python version
+
+.. image:: https://img.shields.io/pypi/v/pystore.svg?maxAge=60
+    :target: https://pypi.python.org/pypi/pystore
+    :alt: PyPi version
+
+.. image:: https://img.shields.io/pypi/status/pystore.svg?maxAge=60
+    :target: https://pypi.python.org/pypi/pystore
+    :alt: PyPi status
+
+.. image:: https://img.shields.io/travis/ranaroussi/pystore/master.svg?maxAge=1
+    :target: https://travis-ci.com/ranaroussi/pystore
+    :alt: Travis-CI build status
+
+.. image:: https://www.codefactor.io/repository/github/ranaroussi/pystore/badge
+    :target: https://www.codefactor.io/repository/github/ranaroussi/pystore
+    :alt: CodeFactor
+
+.. image:: https://img.shields.io/github/stars/ranaroussi/pystore.svg?style=social&label=Star&maxAge=60
+    :target: https://github.com/ranaroussi/pystore
+    :alt: Star this repo
+
+.. image:: https://img.shields.io/twitter/follow/aroussi.svg?style=social&label=Follow&maxAge=60
+    :target: https://twitter.com/aroussi
+    :alt: Follow me on twitter
+
+\
 
 Please click on the link to view the file :
 
