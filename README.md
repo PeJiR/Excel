@@ -1,6 +1,8 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
- <a href="https://img.shields.io/badge/excel-365-green" target="_blank"><img src="https://img.shields.io/badge/excel-green" alt= excel /></a>
+ <a href="https://www.linkedin.com/in/pejir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+  </a>
 
 <image:: https://img.shields.io/pypi/v/qtpylib.svg?maxAge=60>
     :target: https://pypi.python.org/pypi/qtpylib
