@@ -8,7 +8,7 @@
 </head>
 <body>
   <a href="https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20-%20Editable.xlsb" target="_blank">
-   <img src="https://img.shields.io/pypi/status/ezibpy.svg?maxAge=60 alt="Excel" />
+   <img src="https://img.shields.io/badge/excel-365-green"alt="Excel" />
     
   <a href="https://www.linkedin.com/in/pejir/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
