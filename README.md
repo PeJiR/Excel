@@ -1,16 +1,15 @@
 Excel Dashboard for KPI Visualization 
 ====================================================
 <img src="https://img.shields.io/badge/excel-green">
-<target: https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20-%20Editable.xlsb>
-    :alt: Version
-
+ <a href="https://github.com/PeJiR/Excel/blob/main/KPI%20dashboard.%20-%20Editable.xlsb" target="_blank"><img src="https://img.shields.io/badge/excel-green" alt="LinkedIn" />
+  </a>
 
 <image:: https://img.shields.io/pypi/v/qtpylib.svg?maxAge=60>
     :target: https://pypi.python.org/pypi/qtpylib
     :alt: PyPi version
 
-.. image:: https://img.shields.io/pypi/status/qtpylib.svg?maxAge=60
-    :target: https://pypi.python.org/pypi/qtpylib
+.. image::https://img.shields.io/pypi/status/qtpylib.svg?maxAge=60
+    :target:https://pypi.python.org/pypi/qtpylib
     :alt: PyPi status
 
 .. image:: https://img.shields.io/travis/ranaroussi/qtpylib/main.svg?maxAge=1
