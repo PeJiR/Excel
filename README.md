@@ -1,4 +1,4 @@
-Excel Dashboard for KPI Visualization 
+# Excel Dashboard for KPI Visualization 
 
 <a href="https://github.com/pejir">
 
