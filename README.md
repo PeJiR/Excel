@@ -12,13 +12,13 @@
   <a href="https://www.linkedin.com/in/pejir/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
   <a href="https://github.com/PeJiR/Excel" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+   <img src="https://img.shields.io/github/stars/pejir/excel.svg?style=social&label=Star&maxAge=60" alt="Star this repo" />
  
 
     
-https://img.shields.io/github/stars/ranaroussi/qtpylib.svg?style=social&label=Star&maxAge=60
+
     :target: https://github.com/ranaroussi/qtpylib
-    :alt: Star this repo
+    :alt: 
   </a>
 </body>
 </html>
