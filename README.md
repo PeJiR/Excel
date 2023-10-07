@@ -24,38 +24,6 @@
 </body>
 </html>
 
-
-<image:: https://img.shields.io/pypi/v/qtpylib.svg?maxAge=60>
-    :target: https://pypi.python.org/pypi/qtpylib
-    :alt: PyPi version
-
-.. image::https://img.shields.io/pypi/status/qtpylib.svg?maxAge=60
-    :target:https://pypi.python.org/pypi/qtpylib
-    :alt: PyPi status
-
-.. image:: https://img.shields.io/travis/ranaroussi/qtpylib/main.svg?maxAge=1
-    :target: https://travis-ci.org/ranaroussi/qtpylib
-    :alt: Travis-CI build status
-
-.. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat
-    :target: http://qtpylib.io/docs/latest/?badge=latest
-    :alt: Documentation Status
-
-.. image:: https://img.shields.io/badge/Chat-Discord-%237289d6.svg?style=flat&logo=discord&maxAge=60
-    :target: https://discord.gg/7wEzsuV
-    :alt: Chat on Discord
-
-
-
-.. image:: https://img.shields.io/twitter/follow/aroussi.svg?style=social&label=Follow&maxAge=60
-    :target: https://twitter.com/aroussi
-    :alt: Follow me on twitter
-
-\
-
-
-
-
 Please click on the link to view the file :
 
  ### [See Project](https://github.com/PeJiR/Excel/blob/522ab992163bfec3d395231a177d3b21e8171e19/KPI%20dashboard.%20-%20Editable.xlsb) 
