@@ -1,5 +1,5 @@
 # Excel Dashboard for KPI Visualization 
-
+PyStore - Fast data store for Pandas timeseries data
 ====================================================
 
 .. image:: https://img.shields.io/badge/python-2.7,%203.5+-blue.svg?style=flat
@@ -31,6 +31,7 @@
     :alt: Follow me on twitter
 
 \
+
 
 
 
