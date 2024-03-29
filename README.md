@@ -32,7 +32,8 @@ The Excel Dashboard for KPI Visualization is a valuable tool for businesses of a
 
 👤 **Roberto PEREZ**
 
-<!---* Website: pejir
+<!--- 
+* [Website](https://pejir.github.io/robertoportfolio.io/ )
 * [Twitter](https://twitter.com/pejir)--->
 * [Github](https://github.com/pejir)
 * [LinkedIn](https://linkedin.com/in/pejir)
@@ -42,7 +43,7 @@ The Excel Dashboard for KPI Visualization is a valuable tool for businesses of a
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](pejir). You can also take a look at the [contributing guide](pejir).
 ---> 
-
+ 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
@@ -57,3 +58,11 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2023 [Roberto Perez](https://github.com/PeJiR).<br />
 This project is [MIT](https://opensource.org/license/mit/) licensed.
+
+
+P.S.
+------------
+
+Please drop me an note with any feedback you have.
+
+**Roberto Perez**
